@@ -1,0 +1,13 @@
+Target Group
+
+Set of web designed using html and css to demonstrate for civics and education and other use of teaching.
+
+Objectives
+
+Getting practical experience to a website designed from web page using html and css 
+demonstrate what was learned about UI/UX in the course.
+prepare web forms using css.
+Using hypertext reference to navigate between pages
+Hosting a basic website using github pages ( subfeature of github respositories)
+
+# ASTER CHANE ABEBE.github.io
